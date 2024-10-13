@@ -99,7 +99,7 @@ T1,M4,0.840798193,0.933295791,0.841402636,0.717565508,0.1784601,0.151815711,36.5
 ### Sample Command:
 
 ```bash
-python topsis.py input.csv "0.3,0.2,0.2,0.1,0.1,0.05,0.05" "+,+,+,+,+,+,-" output.csv
+python main.py input.csv "0.3,0.2,0.2,0.1,0.1,0.05,0.05" "+,+,+,+,+,+,-" output.csv
 ```
 
 ### Sample Output:
