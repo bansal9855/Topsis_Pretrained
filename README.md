@@ -1,5 +1,3 @@
-
-```markdown
 # TOPSIS Implementation
 
 This repository contains a Python implementation of the Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) method for multi-criteria decision-making. The code evaluates and ranks alternatives based on various performance metrics.
