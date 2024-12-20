@@ -106,8 +106,6 @@ python main.py text_conversational.csv "0.3,0.2,0.2,0.1,0.1,0.05,0.05" "+,+,+,+,
 
 After running the command, the `result.csv` file will contain the calculated performance scores and ranks based on the provided weights and impacts.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
